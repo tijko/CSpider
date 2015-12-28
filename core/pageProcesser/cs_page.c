@@ -1,7 +1,5 @@
 #include "cs_page.h"
 
-
-
 /*
   clear_page: fill the data with all zeros.
 */
