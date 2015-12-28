@@ -12,7 +12,7 @@ Welcome any program using cspider to add links here.
 	* [libuv](https://github.com/libuv/libuv)
 	* [libxml2](http://xmlsoft.org/index.html)
 	* [pcre](http://www.pcre.org)
-	* [liburi](https://github.com/nevali/liburi)
+	* [liburi](https://github.com/mitghi/liburi)
 * Then enter `core`，and compile:
 
 ```
