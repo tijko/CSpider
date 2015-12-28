@@ -45,6 +45,8 @@ int regexAll(const char *regex, char *str, char **res, int num, int flag) {
     }
   } while( rc > 0 && index < num);
 
+  pcre_free(re);
+
   return index;
 }
 
