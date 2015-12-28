@@ -1,4 +1,8 @@
-#include "pageProcesser.h"
+#ifndef PAGE_QUEUE_H
+#define PAGE_QUEUE_H
+#endif
+
+#include "cs_page.h"
 
 void page_queue_init(void);
 
